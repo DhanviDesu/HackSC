@@ -1,33 +1,4 @@
-# HackSC
+Welcome to Calendar Scheduler-
 
-Random Ideas:
-    Google Calendar
-    Chrome Extension
-
-
-Task to Complete:
-    Front End Tasks:
-      Home Page
-      Schedule Page
-      Enter Tasks Page
-      
-    Back End Tasks:
-      Store the assignments and work loads
-      Create an algorithm that distributes work load based on constraints
-
-
-Responsibilities/Roles:
-
-  Cara Lin: Front End 
-
-  Dhanvi Desu: No clue
-
-  Connor Bates: Liaison
-
-  Derek Wen: Home Page
-
-  Vanessa Chen: Bouncer
-
-  Kyle Khuong-Bui: Python, processing data
-
+This app takes in your daily tasks and makes a calendar that distributes your tasks into an efficient schedule that allows you to get all of your work done efficiently without putting too much stress on your mental and phsyical health.
 
